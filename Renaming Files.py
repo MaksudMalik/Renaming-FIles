@@ -1,4 +1,4 @@
-"""This is a simple script that takes names of the files from Names.txt and then renames the required files in the format of 1.name"""
+"""This is a simple script that takes names of the files from Names.txt and then renames the required files in the format of serialno.name.format"""
 import os
 f1=open("Names.txt",'r', encoding='utf-8')
 count=0
